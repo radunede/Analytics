@@ -17,4 +17,4 @@ app.config.suppress_callback_exceptions = True
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False, host='localhost',port=5000)
+    app.run_server(debug=False)
